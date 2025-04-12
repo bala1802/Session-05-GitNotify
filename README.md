@@ -120,7 +120,7 @@ Notes
 •	Ensure valid Gmail API credentials are available in `token.json`.
 •	The project is designed for debugging and traceability, making it suitable for development environments.
 
-Logs:
+# Logs:
 
 ```
 12-04-2025, 07-49-18 - [INFO] Establishing connection to MCP server...
