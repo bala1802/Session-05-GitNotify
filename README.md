@@ -1,7 +1,9 @@
-# Gmail MCP Server
+# GitNotify with verification
 
 ## Overview
-Gmail MCP Server is a Python-based application designed to automate tasks such as cloning a GitHub repository, pulling the latest changes, and sending email notifications using the Gmail API. The project leverages tools like FastMCP for task orchestration and Google APIs for email handling.
+
+Designed and implemented a Model Context Protocol Server to manage and automate GitHub-related activities. The server processes user queries to clone repositories, pull the latest changes, and send email notifications upon completion. To enhance the verification process, I utilized AppleScript to monitor GitHub activity, ensuring accurate tracking and validation of repository actions.
+
 
 ## Features
 	•	GitHub Integration: Clone repositories and pull the latest changes.
